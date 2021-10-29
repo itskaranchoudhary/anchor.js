@@ -1,7 +1,7 @@
 {
   "name": "anchor.js",
   "version": "1.0.0",
-  "description": "A small(less than 2kb) library to Open links in a New Tab",
+  "description": "A small(less than 2kb) library to Open links in New Tab",
   "main": "anchor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
