@@ -7,7 +7,7 @@ A small (less than 2kb) library to Open Links in a New Tab✨
 ## ⚙ Usage
 Just add the following script right before closing `</body>` tag.
 ```html
-<script src="https://cdn.jsdelivr.net/gh/itskaranchoudhary/anchor.js@main/dist/anchor.js"></script>
+<script src="https://cdn.statically.io/gh/itskaranchoudhary/anchor.js/main/dist/anchor.js"></script>
 ```
 ## 👨‍💻 Authors
 
