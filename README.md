@@ -7,9 +7,6 @@
   <a href="https://github.com/itskaranchoudhary/anchor.js/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/itskaranchoudhary/anchor.js/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/itskaranchoudhary/anchor.js" />
-  </a>
 </p>
 
 A small (less than 2kb) library to Open Links in a New Tab✨
