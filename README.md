@@ -19,7 +19,7 @@ Just add the following script right before closing `</body>` tag.
 ```
 ## 👨‍💻 Authors
 
-- [@itskaranchoudhary](https://www.github.com/itskaranchoudhary)
+- [@karanchoudhxry](https://www.github.com/karanchoudhxry)
 
 ## 🤝 Contributing
 
